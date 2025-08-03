@@ -1,0 +1,29 @@
+# Basic Speech Recognition Tool
+
+## 📌 Project Description
+This is a beginner-level Python project that listens to your voice through a microphone and converts it into text using Google’s Speech Recognition API.
+
+It also responds to basic commands like:
+- "hello"
+- "open"
+- "stop"
+
+## 🛠️ Technologies Used
+- Python
+- speech_recognition
+- pyaudio
+- (optional) pyttsx3 for voice feedback
+
+## ▶️ How to Run
+1. Install dependencies:
+pip install SpeechRecognition pyaudio pyttsx3
+
+2. Run the script:
+python speech_tool.py
+
+3. Speak into your microphone and see the result printed.
+
+## ✅ Features
+- Voice-to-text conversion
+- Responds to basic spoken commands
+- Easy and lightweight
